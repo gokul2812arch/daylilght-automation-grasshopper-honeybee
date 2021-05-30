@@ -1,8 +1,12 @@
 # daylilght-automation-grasshopper-honeybee
 
 tool v6_15 if you want to use the human ui interface 
+
 tool v7.1_0, v7.1_1 and v7.1_1 is updated faster and more stable but without the human ui innterface (my recommendation )
+
 the honeybee components will have to be updated 
+
+report1.exe to use the template.docs to generate the report from the daylight output
 
 
 
