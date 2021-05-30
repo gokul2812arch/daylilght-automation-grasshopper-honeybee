@@ -31,3 +31,7 @@ Team
 - Biswas Anuragh ; School of Planning and Architecture, Department of Engineering and Management
 - Gokul Gupta ; School of Planning and Architecture, Department of Architecture
 - Vaidhyanathan Vishal ; Carnegie Mellon University, School of Architecture
+
+for more info go to 
+https://www.notion.so/Automated-LEED-compliance-modeling-tool-f107b743c5d64064947549fac1496b1e
+
